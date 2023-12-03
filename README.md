@@ -1,7 +1,5 @@
 ### 
-
-I recently completed my master's degree at <a href="https://mila.quebec/en/">Mila</a> and am currently enrolled in various research projects.
-My current goal is to advance my expertise in **applied deep learning**, with a specific emphasis on **large-scale deployment**. The engineering complexities involved in handling large neural networks like **ChatGPT** or **DALL-E**, both during training for **knowledge acquisition** and during **inference** to cater to millions of global users, demand a sophisticated skill set. I believe that the ability to implement cutting-edge deep learning research at scale will play a pivotal role in the forthcoming technological revolution and that is what I am focusing on currently.
+Currently focused on **applied deep learning**, with a specific emphasis on **large-scale deployment**.
 
 <!--
 **atonkamanda/atonkamanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
