@@ -1,5 +1,5 @@
 ### 
-Currently focused on **applied deep learning**, with a specific emphasis on **large-scale deployment**.
+Currently focused on **machine learning engineering**.
 
 <!--
 **atonkamanda/atonkamanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
