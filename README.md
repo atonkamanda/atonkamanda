@@ -1,5 +1,5 @@
 ### 
-Focused on **AI safety**.
+**AI safety**.
 
 <!--
 **atonkamanda/atonkamanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
